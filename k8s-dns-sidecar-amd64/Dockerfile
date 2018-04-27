@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.8
-MAINTAINER Jason.lui <piml.lui@gmail.com>
+FROM k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.8
+MAINTAINER Locca.Zhang <locca.zhang@gmail.com>
